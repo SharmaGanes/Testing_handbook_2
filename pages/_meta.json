@@ -1,0 +1,15 @@
+{
+  "index": "Introductory Page",
+  "another": "Page 1",
+  "advanced": "Page 2 with Subpage",
+  "about": {
+    "title": "Page 3",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Contact Us ↗",
+    "type": "page",
+    "href": "https://twitter.com/shuding_",
+    "newWindow": true
+  }
+}
